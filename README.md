@@ -1,5 +1,5 @@
 
-# Rooms BackEnd
+# Rooms FrontEnd
 
 * *Projeto de Estudos Rooms com Spring e Angular*
 
