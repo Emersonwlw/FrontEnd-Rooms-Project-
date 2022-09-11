@@ -1,27 +1,42 @@
-# ClientRoom
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+# Rooms BackEnd
 
-## Development server
+* *Projeto de Estudos Rooms com Spring e Angular*
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto desenvolvido para estudos com Spring-Boot no back-end e Angular para o front end, 
 
-## Code scaffolding
+Link para Repositório do BackEnd: [Rooms BackEnd](https://github.com/Emersonwlw/BackEnd-Rooms-Project)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Editor de codigo (VsCode)](https://code.visualstudio.com/), [Angular](https://angular.io/),
+[Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/))
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+### 🖌️ Rodando o FrontEnd
+```bash
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Clone este repositório
+$ git clone git@github.com:Emersonwlw/FrontEnd-Rooms-Project-.git
 
-## Running end-to-end tests
+#Abra o projeto em seu VsCode
+$ cd client-room/
+$ code .
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+#Instale as dependências 
+$ npm install
 
-## Further help
+#Inicie o projeto 
+$ ng s
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# o Server vai inicar em  <http://localhost:4200/rooms>
+
+```
+
+
+## Stack utilizada
+
+**Front-end:** Angular 
+
+**Back-end:** Java, Spring-Boot
+
